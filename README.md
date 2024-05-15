@@ -1,3 +1,5 @@
+![Banner IsFlutterDeadAlready](https://github.com/Alispezzate/isflutterdeadalready/assets/52720679/be56e8d7-14f2-4863-a2b5-2af4b9b3105f)
+
 # Is Flutter Dead Already?
 
 No, Flutter is not dead. It is still alive and kicking. It is still being actively developed and maintained by Google. It is still being used by many developers and companies to build beautiful, fast, and responsive mobile apps.
