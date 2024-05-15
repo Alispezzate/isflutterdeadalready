@@ -1,8 +1,48 @@
 <!DOCTYPE html>
-<html>
-	<body style="background-color: #272626;">
-	<p style="font-size: 60vh;color: white;text-align: center;margin: auto;">
-		NO
-	</p>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NO</title>
+    <style>
+        html, body {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 50vmin;
+            font-weight: bold;
+            line-height: 1;
+            white-space: nowrap;
+        }
+
+        /* Light theme */
+        @media (prefers-color-scheme: light) {
+            body {
+                background-color: #fafafa;
+                color: #0a0a0a;
+            }
+        }
+
+        /* Dark theme */
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #272626;
+                color: #fafafa;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="no-text">NO</div>
 </body>
 </html>
+
