@@ -14,5 +14,4 @@ But why do some people think that Flutter is dead? There are a few reasons for t
 
 In conclusion, Flutter is not dead. It is still a vibrant and active platform that is being used by many developers and companies to build amazing mobile apps. If you're interested in learning more about Flutter, I encourage you to check out the official Flutter website and get started building your own Flutter apps today!
 
-But if you are still not convinced, you can check out this blazig fast website built on bleeding edge technology, constantly updated and maintained by a team of dedicated developers. [Is Flutter Dead Already?](https://isflutterdeadalready.com/)
-
+But if you are still not convinced, you can check out this blazing fast website built on bleeding edge technology, constantly updated and maintained by a team of dedicated developers. [Is Flutter Dead Already?](https://isflutterdeadalready.com/)
