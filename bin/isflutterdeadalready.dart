@@ -8,6 +8,8 @@ Future<void> main(List<String> arguments) async {
     // ..pick(DirectoryPicker.parse("images"))
     // All 3rd party behavior is added through plugins, even the behavior
     // shipped with Static Shock.
+    ..pick(DirectoryPicker.parse("styles"))
+    ..pick(DirectoryPicker.parse("scripts"))
     ..plugin(const MarkdownPlugin())
     ..plugin(const JinjaPlugin())
     // ..plugin(const PrettyUrlsPlugin())
