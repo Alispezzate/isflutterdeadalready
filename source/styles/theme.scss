@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
 html,
 body {
   height: 100%;
@@ -9,7 +11,7 @@ body {
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Lato", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -18,8 +20,13 @@ body {
   line-height: 1;
   white-space: nowrap;
 }
+
 h1 {
   font-size: 50vmin !important;
+}
+
+h5 {
+  text-align: center;
 }
 
 /* Light theme */
